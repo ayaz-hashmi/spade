@@ -3,8 +3,9 @@
 
 [![Python 2.6|2.7](https://img.shields.io/badge/Python-2.7.*-brightgreen.svg)](https://www.python.org/downloads/)
 [![Tested](https://img.shields.io/badge/Tested--on-Kali%20Linux-orange.svg)](https://www.kali.org/downloads/)
-[![License](https://img.shields.io/badge/License-GNU--GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![License](https://img.shields.io/badge/License-GNU--GPLv2-yellow.svg)](https://www.gnu.org/licenses/gpl-2.0.en.html)
 [![Twitter](https://img.shields.io/badge/twitter-ayazhashmi28-0098e5.svg)](https://twitter.com/ayazhashmi28)
+[![Facebook](https://img.shields.io/badge/facebook-Ayaz%20Hashmi-blue.svg?style=plastic)](https://facebook.com/H4SHMI)
 
 ![alt tag](https://s30.postimg.org/65du5l8xt/spade.png)
 
@@ -26,5 +27,7 @@ Then you can download smap by cloning the [Git](https://github.com/ayaz-hashmi/s
 ###### For Contact
 [![asciicast](https://asciinema.org/a/86309.png)](https://facebook.com/H4SHMI)
 youtube : https://www.youtube.com/channel/UCuxqCoFNaS-iemoUKOhzdqA
+
+Please Subscribe my channel to support me
 
 For educational purposes only.
