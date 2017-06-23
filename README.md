@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-GNU--GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Twitter](https://img.shields.io/badge/twitter-%40r00tx55-0099e5.svg)](https://twitter.com/ayazhashmi28)
 
-![alt tag](http://s21.postimg.org/r8uynyecn/Untitled.png)
+![alt tag](https://s30.postimg.org/65du5l8xt/spade.png)
 
 Quick and handy APK backdoor embedder with metasploit android payloads.
 
@@ -17,7 +17,7 @@ Quick and handy APK backdoor embedder with metasploit android payloads.
 
 
 ###### Installation and execution
-Then you can download smap by cloning the [Git](https://github.com/suraj-root/spade/) repository:
+Then you can download smap by cloning the [Git](https://github.com/ayaz-hashmi/spade/) repository:
 
     git clone https://github.com/ayaz-hashmi/spade
     cd spade/
